@@ -1,6 +1,6 @@
 # Among Us Arena
 
-Link: starcutter.itch.io/among-us-arena
+Link: https://starcutter.itch.io/among-us-arena
 
 Price: Free
 
